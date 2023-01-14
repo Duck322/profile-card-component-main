@@ -74,6 +74,7 @@ h1 {
 hr {
   width: 350px;
   margin: 28px 0 24px 0;
+  opacity: 20%;
 }
 
 p {
